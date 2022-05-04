@@ -1,0 +1,62 @@
+{
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "[ ]",
+        "[x]",
+        "TAG"
+    ],
+    "fileheader.cursorMode": {
+        "description": "",
+        "algorithm": "",
+        "param": "",
+        "return": ""
+    },
+	"fileheader.customMade": {
+        "Author": "junhuizhou",
+        "Date": "Do not edit",
+        "LastEditor": "junhuizhou",
+        "LastEditTime": "Do not edit",
+        "Description": "header",
+        "FilePath": "Do not edit"
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check-circle",
+            "iconColour": "#99FF99",
+            "foreground": "#227700",
+            "background": "#99FF99",
+            "rulerColour": "#99FF99",
+            "rulerLane": "full"
+        },
+        "BUG": {
+            "icon": "alert",
+            "iconColour": "#FF4500",
+            "foreground": "#FFFFFF",
+            "background": "#FF4500",
+            "rulerColour": "#FF4500",
+            "rulerLane": "full"
+        },
+        "FIXME": {
+            "icon": "tools",
+            "iconColour": "#FFB7C2",
+            "foreground": "#FF44AA",
+            "background": "#FFB7C2",
+            "rulerColour": "#FFB7C2",
+            "rulerLane": "full"
+        },
+        "TAG": {
+            "icon": "bookmark",
+            "iconColour": "#4169E1",
+            "foreground": "#FFFFFF",
+            "background": "#4169E1",
+            "rulerColour": "#4169E1",
+            "rulerLane": "full"
+        },
+        "HACK": {
+            "icon": "tools"
+        }
+    }
+}
