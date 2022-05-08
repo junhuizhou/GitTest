@@ -32,7 +32,7 @@
             "rulerLane": "full"
         },
         "BUG": {
-            "icon": "alert",
+            "icon": "x-circle",
             "iconColour": "#FF4500",
             "foreground": "#FFFFFF",
             "background": "#FF4500",
@@ -56,7 +56,12 @@
             "rulerLane": "full"
         },
         "HACK": {
-            "icon": "tools"
+            "icon": "alert",
+            "iconColour": "#FFAA33",
+            "foreground": "#FFFFFF",
+            "background": "#FFAA33",
+            "rulerColour": "#FFAA33",
+            "rulerLane": "full"
         }
     }
 }
